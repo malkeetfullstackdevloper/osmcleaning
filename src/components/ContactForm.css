@@ -1,0 +1,55 @@
+.success-message {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+.calendar-icon {
+  pointer-events: none;
+  font-size: 1.2rem;
+  color: #999;
+}
+.quote-form {
+  background: #01259d !important;
+  color: #fff;
+}
+.quote-form h3 {
+  color: #fff !important;
+}
+::placeholder {
+  color: #fff !important;
+  opacity: 1; /* Firefox */
+}
+
+::-ms-input-placeholder { /* Edge 12 -18 */
+  color: #fff !important;
+}
+.quote-form .form-control{
+  background-color: #01259d !important; 
+  border-color: #fff !important;
+  color: #fff !important;
+}
+ .translate-form .quote-form select, .quote-form input .pe-5, .get-A-quote .quote-form select, .contact-form .quote-form select, .contact-us .quote-form select {
+  background: #01259d !important;
+  color: #fff !important;
+  border-color: #fff !important;
+}
+textarea.form-control{
+  background: #01259d !important;
+  color: #fff !important;
+}
+.quote-form .form-control:focus {
+  background-color: #01259d !important; 
+  border-color: #fff !important;
+}

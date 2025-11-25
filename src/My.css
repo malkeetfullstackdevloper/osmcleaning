@@ -1,0 +1,28 @@
+.about-us-box.servicepage>p, .about-us-box.servicepage>h4, .about-us-box.servicepage>ul>li>h5,  .about-us-box.servicepage>ul>li>p {
+  color: #000 !important;
+}
+.about-us-box.servicepage {
+  padding: 9% 0 0 0;
+}
+.mainsection {
+    background: #010c8b;
+    color: #fff;
+    padding: 20px 0;
+}
+.mainsection {
+    background: #010c8b;
+    color: #fff;
+    padding: 20px 0;
+}
+.secs {
+    padding: 15px 0;
+}
+.secsForm {
+    padding: 6% 0;
+}
+.secs img {
+    border-radius: 25px;
+}
+.secsa{
+    padding: 8px 0;    
+}
